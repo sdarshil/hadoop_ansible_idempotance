@@ -1,0 +1,1 @@
+# hadoop_ansible_idempotance
